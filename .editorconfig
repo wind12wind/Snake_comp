@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0210: 최상위 문으로 변환
+csharp_style_prefer_top_level_statements = true
